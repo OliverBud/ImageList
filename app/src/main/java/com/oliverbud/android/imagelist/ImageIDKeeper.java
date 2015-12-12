@@ -35,4 +35,9 @@ public class ImageIDKeeper {
     public ArrayList<String> getImageIdList(){
         return imageIdList;
     }
+
+    public void pizza(){
+        String pizza = "I Freaking love pizza";
+        int numberOfPizzasThatIWantToEat = 10000000;
+    }
 }
