@@ -5,7 +5,8 @@ import java.util.ArrayList;
 import javax.inject.Inject;
 
 /**
- * Created by oliverbudiardjo on 6/15/15.
+ * Created by oliverbudiardjo on 6/15/15
+ * Edited by david on 12/12/15.
  */
 public class ImageIDKeeper {
 
